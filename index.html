@@ -39,7 +39,7 @@
 
 
 <p class='SubitemParagraph' style='font-size: 12px;'>
- mysystem &lt;-<br />&ldquo;!MAEMOD_Begin<br />STARTTIME &lt;- 0<br />STOPTIME &lt;- 20*pi<br />DT &lt;- 0.1<br />!Equations<br /> dY1&lt;-Y2<br /> dY2&lt;-a*sin(Y1)+sin(t)<br /><br />!Parameters<br /> a= -1.0<br /> <br />!Inits<br /> Y1=0,Y2=0<br /> <br />!Outputs<br /> <br />!Plots<br /><br />!MAEMOD_End<br />&ldquo;<br />out&lt;-maemod.ode(input.text = )<br />plot(out[,c(2,3)],col=&quot;red&quot;)
+ mysystem &lt;-<br />&ldquo;!MAEMOD_Begin<br />STARTTIME &lt;- 0<br />STOPTIME &lt;- 20*pi<br />DT &lt;- 0.1<br />!Equations<br /> dY1&lt;-Y2<br /> dY2&lt;-a*sin(Y1)+sin(t)<br /><br />!Parameters<br /> a= -1.0<br /> <br />!Inits<br /> Y1=0,Y2=0<br /> <br />!Outputs<br /> <br />!Plots<br /><br />!MAEMOD_End<br />&ldquo;<br />out&lt;-maemod.ode(input.text =mysystem )<br />plot(out[,c(2,3)],col=&quot;red&quot;)
 </p>
 
 

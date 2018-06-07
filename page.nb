@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     20405,        403]
-NotebookOptionsPosition[     19445,        378]
-NotebookOutlinePosition[     19853,        394]
-CellTagsIndexPosition[     19810,        391]
+NotebookDataLength[     20464,        404]
+NotebookOptionsPosition[     19504,        379]
+NotebookOutlinePosition[     19912,        395]
+CellTagsIndexPosition[     19869,        392]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -112,11 +112,12 @@ DT <- 0.1
 
 !MAEMOD_End
 \[OpenCurlyDoubleQuote]
-out<-maemod.ode(input.text = )
+out<-maemod.ode(input.text =mysystem )
 plot(out[,c(2,3)],col=\"red\")\
 \>", "SubitemParagraph",
  CellChangeTimes->{{3.737346513480343*^9, 3.7373465598921804`*^9}, {
-  3.7373468913946095`*^9, 3.7373468913956127`*^9}},
+  3.7373468913946095`*^9, 3.7373468913956127`*^9}, {3.7373475645078516`*^9, 
+  3.737347566910475*^9}},
  FontSize->12,ExpressionUUID->"27dc0bbf-716c-42ac-9731-a1f4df0c9128"],
 
 Cell[TextData[Cell[BoxData[
@@ -400,8 +401,8 @@ Cell[980, 32, 444, 9, 26, "Item",ExpressionUUID->"df551150-5684-4f48-adb5-b976fb
 Cell[1427, 43, 1551, 21, 61, "ItemParagraph",ExpressionUUID->"26f8e3c2-450c-415c-a129-8aa22451e837"],
 Cell[CellGroupData[{
 Cell[3003, 68, 815, 22, 37, "Subitem",ExpressionUUID->"b3c041e5-8d0f-4723-91c2-3fb293c609c3"],
-Cell[3821, 92, 522, 27, 459, "SubitemParagraph",ExpressionUUID->"27dc0bbf-716c-42ac-9731-a1f4df0c9128"],
-Cell[4346, 121, 15059, 252, 243, "SubitemParagraph",ExpressionUUID->"b68183ad-9dff-4256-8d83-1816966964a7"]
+Cell[3821, 92, 581, 28, 459, "SubitemParagraph",ExpressionUUID->"27dc0bbf-716c-42ac-9731-a1f4df0c9128"],
+Cell[4405, 122, 15059, 252, 243, "SubitemParagraph",ExpressionUUID->"b68183ad-9dff-4256-8d83-1816966964a7"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
