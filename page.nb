@@ -1,0 +1,85 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      2664,         75]
+NotebookOptionsPosition[      2047,         55]
+NotebookOutlinePosition[      2455,         71]
+CellTagsIndexPosition[      2412,         68]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["\:0e42\:0e1b\:0e23\:0e40\:0e08\:0e47\:0e04\:0e02\:0e2d\:0e07\:0e1c\:0e21\
+\:0e1a\:0e19 GitHub", "Section",
+ CellChangeTimes->{{3.7373445350613923`*^9, 3.7373445382984037`*^9}, {
+  3.7373446565650682`*^9, 3.737344664298687*^9}, {3.7373448483963404`*^9, 
+  3.7373449080152636`*^9}},
+ FontFamily->
+  "TH Sarabun New",ExpressionUUID->"4ae7260b-7eb4-4a3d-a204-b02127f661a2"],
+
+Cell[CellGroupData[{
+
+Cell["maemod package", "Item",
+ CellChangeTimes->{
+  3.73734479339149*^9, {3.7373449425966163`*^9, 3.737344959451098*^9}, {
+   3.7373451301955986`*^9, 
+   3.7373451333325243`*^9}},ExpressionUUID->"df551150-5684-4f48-adb5-\
+b976fbe42f75"],
+
+Cell[TextData[StyleBox["maemod package \:0e40\:0e1b\:0e47\:0e19\:0e41\:0e1e\
+\:0e47\:0e04\:0e40\:0e01\:0e08\:0e20\:0e32\:0e29\:0e32 R \:0e17\:0e35\:0e48\
+\:0e1c\:0e21\:0e40\:0e02\:0e35\:0e22\:0e19\:0e40\:0e1e\:0e37\:0e48\:0e2d\:0e08\
+\:0e30\:0e0a\:0e48\:0e27\:0e22\:0e43\:0e2b\:0e49\:0e04\:0e19\:0e17\:0e35\:0e48\
+\:0e2d\:0e22\:0e32\:0e01\:0e08\:0e30\:0e41\:0e01\:0e49\:0e2a\:0e21\:0e01\:0e32\
+\:0e23 ordinary differential equations \:0e43\:0e19 R \
+\:0e2a\:0e32\:0e21\:0e32\:0e23\:0e16\:0e17\:0e33\:0e44\:0e14\:0e49\:0e07\:0e48\
+\:0e32\:0e22\:0e02\:0e36\:0e49\:0e19",
+ FontFamily->"TH Sarabun New"]], "ItemParagraph",
+ CellChangeTimes->{{3.7373449966557918`*^9, 3.7373449969824286`*^9}, {
+  3.7373451147428107`*^9, 
+  3.737345271940379*^9}},ExpressionUUID->"26f8e3c2-450c-415c-a129-\
+8aa22451e837"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{775, 513},
+WindowMargins->{{218, Automatic}, {44, Automatic}},
+FrontEndVersion->"11.3 for Microsoft Windows (64-bit) (March 6, 2018)",
+StyleDefinitions->FrontEnd`FileName[{"Utility"}, "Notepad.nb", 
+  CharacterEncoding -> "UTF-8"]
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 375, 6, 74, "Section",ExpressionUUID->"4ae7260b-7eb4-4a3d-a204-b02127f661a2"],
+Cell[CellGroupData[{
+Cell[980, 32, 237, 5, 26, "Item",ExpressionUUID->"df551150-5684-4f48-adb5-b976fbe42f75"],
+Cell[1220, 39, 799, 12, 25, "ItemParagraph",ExpressionUUID->"26f8e3c2-450c-415c-a129-8aa22451e837"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+
